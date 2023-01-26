@@ -1,6 +1,6 @@
 # Intro
 
-​	In order to get random cover, I have written a tool to return random image each request. This tool is open-sourced on [ImgRandom](https://github.com/demogest/ImgRandom). This tool is written in Java with Spring Boot.
+​	In order to get random cover, I have written a tool to return random image for each request. This tool is open-sourced on [ImgRandom](https://github.com/demogest/ImgRandom). This tool is written in Java with Spring Boot.
 
 
 
