@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.firmant</groupId>
 	<artifactId>randomImage</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>randomImage</name>
 	<description>Random Image</description>
 	<properties>
@@ -47,6 +47,10 @@
 						</exclude>
 					</excludes>
 				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
 			</plugin>
 		</plugins>
 	</build>
